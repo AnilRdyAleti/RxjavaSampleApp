@@ -16,6 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ui.operators.OperatorsActivity" />
+        <activity android:name=".ui.networking.NetworkingActivity" />
+        <activity android:name=".ui.rxbus.RxBusActivity" />
+        <activity android:name=".ui.pagination.PaginationActivity" />
+        <activity android:name=".ui.compose.ComposeOperatorExampleActivity" />
+        <activity android:name=".ui.search.SearchActivity"></activity>
     </application>
 
 </manifest>
