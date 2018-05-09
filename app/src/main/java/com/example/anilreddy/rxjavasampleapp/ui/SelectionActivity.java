@@ -1,10 +1,11 @@
-package com.example.anilreddy.rxjavasampleapp;
+package com.example.anilreddy.rxjavasampleapp.ui;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
+import com.example.anilreddy.rxjavasampleapp.R;
 import com.example.anilreddy.rxjavasampleapp.ui.compose.ComposeOperatorExampleActivity;
 import com.example.anilreddy.rxjavasampleapp.ui.networking.NetworkingActivity;
 import com.example.anilreddy.rxjavasampleapp.ui.operators.OperatorsActivity;
